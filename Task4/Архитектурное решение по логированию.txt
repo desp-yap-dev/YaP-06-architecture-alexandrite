@@ -49,3 +49,5 @@
 - настроить политику хранения логов
 
 В перспективе можно настроить систему анализа логов для выявления подозрительной активности в сервисах.
+
+Схема: [тут](https://github.com/desp-yap-dev/YaP-06-architecture-alexandrite/blob/feature/1/Task4/jewerly_c4_model_tracing_monitoring_logging.drawio)
